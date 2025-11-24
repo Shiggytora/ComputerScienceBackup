@@ -2,17 +2,17 @@ Travel-matching application of group 9.1 for the course "Fundamentals and Method
 
 How to install:
 
-clone the repository
+# clone the repository
 git clone https://github.com/Shiggytora/ComputerScience.git
 
-navigate to the repository
+# navigate to the repository
 cd ComputerScience
 
-create a virtuell environment
+# create a virtuell environment
 python -m venv .venv
 
-install dependency
+# install dependency
 pip install -r requirements.txt
 
-run streamlit/start the app
+# run streamlit/start the app
 streamlit run streamlit_app.py
